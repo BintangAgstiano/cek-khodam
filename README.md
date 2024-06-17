@@ -1,1 +1,1 @@
-https://github.io/BintangAgstiano/cek-khodam
+https://BintangAgstiano.github.io/cek-khodam
